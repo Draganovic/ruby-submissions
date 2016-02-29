@@ -42,9 +42,9 @@ Heroku Link:
 
 Team: Chelsea Johnson & Admir Draganovic
 
-Github Repo:
+Github Repo:https://github.com/cheljoh/skill-inventory-crud
 
-Heroku Link:
+Heroku Link:https://obscure-dawn-86816.herokuapp.com/
 
 
 Team: David Whitaker & July Tran
